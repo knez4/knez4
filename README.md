@@ -1,2 +1,4 @@
-### Moje statistike:
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knez4&layout=compact&theme=dark)
+### 🚀 Moje programske statistike
+
+```github-languages
+knez4/Mystery-M
