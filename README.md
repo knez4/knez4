@@ -1,7 +1,11 @@
-### 🚀 Moje programske statistike
+# 👨‍💻 Zdravo, ja sam knez4!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=knez4&theme=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=knez4&theme=github">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=knez4&theme=github">
-</picture>
+Frontend Developer fokusiran na kreiranje ultra brzih, moderno dizajniranih i maksimalno optimizovanih sajtova.
+
+### 🛠️ Tehnologije koje koristim:
+* **Frontend:** HTML5, CSS3, JavaScript, Responsive Web Design (Mobile-First)
+* **Alati:** Git, GitHub, VS Code
+* **Performanse:** 100/100 Lighthouse sertifikovan kod 🚀
+
+### 📊 Moji projekti:
+* **Mystery-M** – Kompletno upeglan, prilagođen za sve uređaje (od telefona do tableta) i maksimalno optimizovan frontend sajt.
